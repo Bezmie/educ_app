@@ -1,0 +1,12 @@
+$bg: rgb(50, 50, 50);
+$ff: sans-serif;
+$white: #fff;
+
+* {
+  font-family: $ff;
+  color: $white;
+}
+
+body {
+  background: $bg;
+}
