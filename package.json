@@ -1,6 +1,6 @@
 {
   "name": "educ_app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "test",
   "main": "webpack.config.js",
   "scripts": {
